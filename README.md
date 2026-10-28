@@ -1,2 +1,2 @@
 # anz-workshops
-anz custom workshop repositories
+This is a repository with anz custom workshops.
