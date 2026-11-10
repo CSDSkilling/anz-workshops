@@ -7,7 +7,7 @@ Session 2 – Build your agent
 
 # Agent Workshop
 
-Two sessions, one worksheet each. Download the worksheet, save a copy to **your OneDrive**, and fill it in as we go.
+Two sessions, one worksheet each, plus a take-home worksheet to test and improve your agent. Download each worksheet, save a copy to **your OneDrive**, and fill it in as we go.
 
 > **Before you start:** do not include sensitive information, Tax File Numbers, customer or passenger data, or confidential process details. Not sure? Ask your organisation's AI support team.
 
@@ -47,6 +47,23 @@ Then work through the steps in the worksheet as you build in **Microsoft 365 Cop
 5. **Own it.** Write your success measure, and name the owner, the reviewer and who keeps it current. List the known limitations.
 
 ✅ Save your worksheet. It's your record of the agent's design, tests and ownership.
+
+## Take home – Test and improve your agent
+
+### 📥 [Download the Take home worksheet](worksheets/Agent%20Workshop%20-%20Session%202%20Worksheet%203%20-%20Test%20and%20Improve%20Your%20Agent%20-%20Copy.docx)
+
+*Save a separate copy to your OneDrive as `Take home – [your name] – [agent].docx` so you keep your Session 2 build worksheet.*
+
+Use this worksheet as your continuous improvement plan, following the **Plan-Do-Check-Act** cycle. Complete **Steps 1 to 3 in the session**, then **Steps 4 to 6 over the next few weeks**:
+
+1. **Baseline the current process (Plan).** Record how the work runs today and choose two or three measures before using the agent for real work.
+2. **Find the constraint or problem (Plan).** Name the one thing your agent should fix and where it could go wrong.
+3. **Test a small change (Do).** Plan a 2 to 4 week trial with a named owner and human review. Test everyday questions, tricky edge cases, out-of-scope requests and questions not answered by its sources.
+4. **Measure the outcome (Check).** Compare the same measures against your baseline, track how much output needed rewriting, and separate data from feedback.
+5. **Standardise the change or drop it (Act).** Decide whether to keep, adjust and re-test, or stop. Record what you learnt, ownership and changes to instructions or knowledge.
+6. **Build the rhythm (Repeat).** Set regular reviews, keep an improvement backlog and track the benefits realised.
+
+✅ Save your worksheet and bring it to every review. Run your test script again whenever you change your agent's instructions or knowledge.
 
 ---
 
