@@ -15,7 +15,7 @@ Two sessions, one worksheet each. Download the worksheet, save a copy to **your 
 
 ## Session 1 – What should become an agent?
 
-### 📥 [Download the Session 1 worksheet](worksheets/Agent%20Workshop%20-%20Session%201%20Worksheet%20v1_0.docx)
+### 📥 [Download the Session 1 worksheet](worksheets/Agent%20Workshop%20-%20Session%201%20Worksheet%20v1_1.docx)
 
 *On the next screen, select the download button (↓) at the top right. Save it to your OneDrive as `Session 1 – [your name] – [idea].docx`.*
 
